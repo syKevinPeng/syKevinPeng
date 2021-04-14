@@ -7,12 +7,13 @@
 ![Big Orange](IMG_0743.JPG)
 
 
-[![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)](https://github.com/anuraghazra/github-readme-stats)
+![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syKevinPeng)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@syKevinPeng)
+
+
 <!--
 **syKevinPeng/syKevinPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
