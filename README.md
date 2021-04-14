@@ -4,14 +4,10 @@
 - I'm currently working on Monocular 3D object Detection
 - Fun fact: I have a cat called 大橘, "Big Orange" in English. He's big and orange, so....
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&langs_count=10&layout=compact&theme=chartreuse-dark" >
-</p>
+[![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?theme=chartreuse-dark&layout=compact&username=syKevinPeng" >
-</p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syKevinPeng)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **syKevinPeng/syKevinPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
