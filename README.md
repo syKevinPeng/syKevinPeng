@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm currently learning machine learning, specifically deep learning
+- I'm currently working on Monocular 3D object Detection
+- Fun fact: I have a cat called 大橘, "Big Orange" in English. He's big and orange, so....
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **syKevinPeng/syKevinPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
