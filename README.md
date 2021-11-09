@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm currently learning machine learning, specifically deep learning
-- I'm currently working on Monocular 3D object Detection
+- I'm pursuing a double degree in Computer Science:Machine Learning and Math:Statistics at University of Maryland as undergraduate student
+- I'm currently working on Monocular 3D object Detection and violin pose estimation
 - Fun fact: I have a cat called 大橘, "Big Orange" in English. He's big and orange, so....
 
 ![Big Orange](IMG_0743.JPG)
