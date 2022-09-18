@@ -9,13 +9,13 @@ My personal website: <a href="https://sykevinpeng.github.io/">https://sykevinpen
 Linkedin: <a href="https://www.linkedin.com/in/sypeng2000/">https://www.linkedin.com/in/sypeng2000/</a>\
 
 <p align="center">
-![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)
-</p>\
+<img src="https://github-readme-stats.vercel.app/api?username=syKevinPeng">
+</p>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&layout=compact)
-</p>\
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&layout=compact">
+</p>
 
 <p align="center">
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@syKevinPeng)
-</p>\
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@syKevinPeng">
+</p>
