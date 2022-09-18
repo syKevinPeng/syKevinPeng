@@ -1,30 +1,20 @@
 ### Hi there 👋
 
-- I'm pursuing a double degree in Computer Science:Machine Learning and Math:Statistics at University of Maryland as undergraduate student
-- I'm currently working on Monocular 3D object Detection and violin pose estimation
-- Fun fact: I have a cat called 大橘, "Big Orange" in English. He's big and orange, so....
+- I just graudate from University of Maryland, College Park with a dual B.S degree in computer science and math-statistics.
+- I also decided to continue my academic journey and pursue a PhD degree in Computer Science. My research interest lies in the intersection of computer vision and machine learning.
+- I'm currently working on two research projects. One is an HCI project, using smart watch acclerometer data to detection human action, and the other one is about image segmentation using differentiable programming. 
 
-![Big Orange](IMG_0743.JPG)
+My personal website: <a href="https://sykevinpeng.github.io/">https://sykevinpeng.github.io/</a>
+Linkedin: <a href="https://www.linkedin.com/in/sypeng2000/">https://www.linkedin.com/in/sypeng2000/</a>
 
-
+<p align="center">
 ![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syKevinPeng)
+</p>
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syKevinPeng&layout=compact)
+</p>
 
+<p align="center">
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@syKevinPeng)
-
-
-<!--
-**syKevinPeng/syKevinPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
